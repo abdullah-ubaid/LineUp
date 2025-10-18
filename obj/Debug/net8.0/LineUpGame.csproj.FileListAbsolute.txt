@@ -1,0 +1,14 @@
+D:\LUG\LineUpGame\bin\Debug\net8.0\LineUpGame.exe
+D:\LUG\LineUpGame\bin\Debug\net8.0\LineUpGame.deps.json
+D:\LUG\LineUpGame\bin\Debug\net8.0\LineUpGame.runtimeconfig.json
+D:\LUG\LineUpGame\bin\Debug\net8.0\LineUpGame.dll
+D:\LUG\LineUpGame\bin\Debug\net8.0\LineUpGame.pdb
+D:\LUG\LineUpGame\obj\Debug\net8.0\LineUpGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\LUG\LineUpGame\obj\Debug\net8.0\LineUpGame.AssemblyInfoInputs.cache
+D:\LUG\LineUpGame\obj\Debug\net8.0\LineUpGame.AssemblyInfo.cs
+D:\LUG\LineUpGame\obj\Debug\net8.0\LineUpGame.csproj.CoreCompileInputs.cache
+D:\LUG\LineUpGame\obj\Debug\net8.0\LineUpGame.dll
+D:\LUG\LineUpGame\obj\Debug\net8.0\refint\LineUpGame.dll
+D:\LUG\LineUpGame\obj\Debug\net8.0\LineUpGame.pdb
+D:\LUG\LineUpGame\obj\Debug\net8.0\LineUpGame.genruntimeconfig.cache
+D:\LUG\LineUpGame\obj\Debug\net8.0\ref\LineUpGame.dll
